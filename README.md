@@ -1,43 +1,10 @@
 ## **INTRODUCTION TO PHYTON**
 
-## 🔹 1. Printing Items with `print()` and `sep="\n"`
-
-### **Aim**
-To understand how to display multiple items on separate lines using Python’s `print()` function with a custom separator.
-
-### **Theory**
-The `print()` function in Python can take multiple arguments and display them together. By using the `sep="\n"` parameter, we tell Python to separate each item with a newline, so each word appears on a new line.
-
-### **Algorithm**
-1. Use the `print()` function with multiple string arguments.
-2. Set the `sep` parameter to `"\n"` to print each item on a new line.
-
-### **Conclusion**
-We successfully printed multiple items—Orange, Apple, Banana—each on a separate line using `sep="\n"`. This helps in formatting output neatly.
-
----
-
-## 🔹 2. Variable Assignment and Access
-
-### **Aim**
-To learn how to assign multiple values to multiple variables in a single line and access them individually.
-
-### **Theory**
-Python allows tuple unpacking, where multiple variables can be assigned values simultaneously. This is useful for clean and readable code.
-
-### **Algorithm**
-1. Assign values using `x, y, z = "orange", "apple", "banana"`.
-2. Print any variable to check its value.
-
-### **Conclusion**
-We assigned three fruits to three variables and printed one of them. This shows how Python handles multiple assignments efficiently.
-
----
+AIM
 
 ## 🔹 3. Data Types and Arithmetic Operations
 
-### **Aim**
-To explore basic data types in Python and perform arithmetic operations like addition, subtraction, multiplication, division, and exponentiation.
+
 
 ### **Theory**
 Python supports various data types such as `int`, `float`, `str`, and `bool`. It also allows arithmetic operations using standard operators like `+`, `-`, `*`, `/`, and `**`.
@@ -47,15 +14,10 @@ Python supports various data types such as `int`, `float`, `str`, and `bool`. It
 2. Use `type()` to check each variable’s data type.
 3. Perform arithmetic operations using two numeric variables.
 
-### **Conclusion**
-We identified data types and performed basic math operations. This forms the foundation for handling data and calculations in Python.
-
----
 
 ## 🔹 4. Arithmetic Operations with User Input
 
-### **Aim**
-To perform arithmetic operations on two numbers entered by the user.
+
 
 ### **Theory**
 Python’s `input()` function allows users to enter values during runtime. These values can be converted to integers using `int()` and used in calculations.
