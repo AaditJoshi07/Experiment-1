@@ -61,4 +61,8 @@ Using if-else statements to compare values and make decisions based on condition
 
 -->If true, print that a is greater; otherwise, print that b is greater.
 
+**CONCLUSION:-**
+
+Through these experiments, we successfully learned and applied Python’s fundamental concepts such as printing, variable handling, data types, arithmetic operations, user input, mathematical functions, and conditional logic. This establishes a strong foundation for writing clear, interactive, and logical Python programs.
+
 ##
