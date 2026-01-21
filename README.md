@@ -1,72 +1,64 @@
-## **INTRODUCTION TO PHYTON**
+ ## **INTRODUCTION TO PHYTON**
 
-AIM
+**AIM:-**
 
-## 🔹 3. Data Types and Arithmetic Operations
+To understand and implement basic Python programming concepts including printing output, variable assignment, data types, arithmetic operations, user input handling, mathematical functions, and conditional statements.
+
+**THEORY:-**
+
+Python is a beginner-friendly, high-level programming language widely used for automation, data analysis, and software development. The experiments cover:
+
+* <ins>*Printing with separators:-*</ins>
+Using print() with sep="\n" to format output across multiple lines.
+
+* <ins>*Variable assignment:-*</ins>
+Assigning multiple values to variables in one line using tuple unpacking.
+
+* <ins>*Data types:-*</ins>
+Understanding int, float, str, and bool using the type() function.
+
+* <ins>*Arithmetic operations:-*</ins>
+Performing addition, subtraction, multiplication, division, and exponentiation using operators like +, -, *, /, and **.
+
+* <ins>*User input:-*</ins>
+Using input() and type casting (int() or float()) to accept values from users during runtime.
+
+* <ins>*Importing Library:-*</ins>
+Importing math to access constants like math.pi and functions like math.log10().
+
+* <ins>*Conditional logic:-*</ins>
+Using if-else statements to compare values and make decisions based on conditions.
+
+**ALGORITHMS:-**
+
+<ins>1. Arithmetic Operations:-</ins>
+
+-->Prompt the user to enter two integer values using input() and convert them to int.
+
+-->Perform arithmetic operations: addition, subtraction, multiplication, division, and exponentiation.
+
+--> Display the results using print().
 
 
+<ins>2. Area of Circle and Math Functions:-</ins>
 
-### **Theory**
-Python supports various data types such as `int`, `float`, `str`, and `bool`. It also allows arithmetic operations using standard operators like `+`, `-`, `*`, `/`, and `**`.
+-->Import the math module.
 
-### **Algorithm**
-1. Assign values to variables of different types.
-2. Use `type()` to check each variable’s data type.
-3. Perform arithmetic operations using two numeric variables.
+-->Ask the user to enter the radius of a circle (as int or float).
 
+-->Calculate the area using the formula: area = math.pi * r * r.
 
-## 🔹 4. Arithmetic Operations with User Input
+-->Optionally, demonstrate other math functions like math.log10().
 
+-->Display the result using print().
 
 
-### **Theory**
-Python’s `input()` function allows users to enter values during runtime. These values can be converted to integers using `int()` and used in calculations.
+<ins>3. Conditional Statements (Greater Than Comparison):-</ins>
 
-### **Algorithm**
-1. Take two integer inputs from the user.
-2. Perform addition, subtraction, multiplication, division, and exponentiation.
-3. Display the results using `print()`.
+-->Assign values to two variables a and b.
 
-### **Conclusion**
-We successfully took user input and performed all basic arithmetic operations. This demonstrates interactive programming in Python.
+-->Use an if statement to check if a > b.
 
----
+-->If true, print that a is greater; otherwise, print that b is greater.
 
-## 🔹 5. Area of Circle and Math Functions
-
-### **Aim**
-To calculate the area of a circle using the radius provided by the user and explore basic math functions.
-
-### **Theory**
-The area of a circle is given by the formula \( \pi r^2 \). Python’s `math` module provides access to constants like `math.pi` and functions like `math.log10()`.
-
-### **Algorithm**
-1. Import the `math` module.
-2. Take radius input from the user (as `int` or `float`).
-3. Calculate area using `math.pi * r * r`.
-4. Optionally, use `math.log10()` to demonstrate logarithmic functions.
-
-### **Conclusion**
-We calculated the area of a circle using user input and used a math function. This shows how Python handles mathematical operations using built-in modules.
-
----
-
-## 🔹 6. Conditional Statements (Greater Than Comparison)
-
-### **Aim**
-To understand how to use conditional statements to compare two values.
-
-### **Theory**
-Python uses `if-else` statements to make decisions. The `>` operator checks if one value is greater than another.
-
-### **Algorithm**
-1. Assign values to two variables.
-2. Use `if` to compare them.
-3. Print the result based on the condition.
-
-### **Conclusion**
-We compared two numbers and printed which one is greater. This introduces decision-making in Python programs.
-
----
-
-Would you like me to compile these into a formatted page or help you prepare a lab journal version? Or maybe you'd like to add diagrams or flowcharts for each?
+##
