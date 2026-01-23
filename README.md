@@ -4,6 +4,8 @@
 
 To understand and implement basic Python programming concepts including printing output, variable assignment, data types, arithmetic operations, user input handling, mathematical functions, and conditional statements.
 
+##
+
 **THEORY:-**
 
 Python is a beginner-friendly, high-level programming language widely used for automation, data analysis, and software development. The experiments cover:
@@ -28,6 +30,8 @@ Importing math to access constants like math.pi and functions like math.log10().
 
 * <ins>*Conditional logic:-*</ins>
 Using if-else statements to compare values and make decisions based on conditions.
+
+##
 
 **ALGORITHMS:-**
 
@@ -60,6 +64,8 @@ Using if-else statements to compare values and make decisions based on condition
 -->Use an if statement to check if a > b.
 
 -->If true, print that a is greater; otherwise, print that b is greater.
+
+##
 
 **CONCLUSION:-**
 
